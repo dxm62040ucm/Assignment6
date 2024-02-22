@@ -1,7 +1,9 @@
 # Assignment6
 
-Git Link:
-Video:
+Git Link:   https://github.com/dxm62040ucm/Assignment6/blob/main/Assignment6_NNDL.ipynb
+
+
+Video:      https://drive.google.com/file/d/1JcjgQ_Zp7Tm68bxJeszweB_amwDDiGu_/view?usp=drive_link
 1)
 a. Dense layers are added to the existing code and executed accuracy changes.
 2. Loaded Breast Cancer dataset.Reported accuracy of the model.
